@@ -1,0 +1,54 @@
+{
+  "appbar": {
+    "title": ["Belarussian architects", "Белорусские архитекторы", "Беларускiя архiтэктары"]
+  },
+  "main":{
+    "head": [
+      "Culture portal about belarusian architects",
+      "Культурный портал о белорусских архитекторах",
+      "Партал пра беларускіх архітэктараў"
+    ],
+    "description": [
+      "During the course of its history Belarusian nation has created a highly developed and original architecture. Its best monuments mirror the peculiarities and most important architectural trends and achievements of the epoque, prove the practical wisdom and artistic craftsmanship of Belarusian people.",
+      "За свою историю белорусский народ создал высокоразвитую и самобытную архитектуру. Его лучшие памятники отражают особенности и важнейшие архитектурные тенденции и достижения эпохи, доказывают практическую мудрость и художественное мастерство белорусского народа.",
+      "У ходзе сваёй гісторыі беларускага народа стварыла высокаразьвітую і арыгінальную архітэктуру. Яго лепшыя помнікі адлюстроўваюць асаблівасці і найбольш важныя архітэктурныя тэндэнцыі і дасягненні Epoque, даказаць практычная мудрасць і мастацкае майстэрства беларускага народа."
+    ],
+    "learnMore": [
+      "Learn more!",
+      "Узнайте больше!",
+      "Даведайцеся больш!"
+    ],
+    "architectOfDay": [
+      "Architect of the day",
+      "Архитектор дня",
+      "Архітэктар дня"
+    ],
+    "team": [
+      "Project team",
+      "Команда проекта",
+      "Каманда праекта"
+    ]
+  },
+  "profile":{
+    "gallery": ["Photogallery", "Фотогалерея", "Фотагалерэя"],
+    "timeline": ["Timeline", "Лента времени", "Стужка часу"],
+    "video":{
+      "callToAction" : [
+        "Want to watch the video about architect's work? Click the button below!",
+        "Хотите посмотреть видео о работе архитектора? Нажмите на кнопку ниже!",
+        "Хочаце паглядзець відэа пра працу архітэктара? Націсніце на кнопку ніжэй!"
+      ],
+      "button": ["Watch","Смотреть","Глядзець"],
+      "modalHeadline": [
+        "Video about some of architect's work",
+        "Видео о некоторых работах архитектора",
+        "Відэа аб некаторых працах архітэктара"
+      ]
+    },
+    "map":[
+      "Explore some sign places on thе map:",
+      "Исследуйте некоторые знаковые места на карте:",
+      "Дасьледуйце некаторыя знакавыя месцы на мапе:"
+    ]
+  }
+}
